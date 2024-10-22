@@ -10,9 +10,10 @@ Afripay Finance APIs for cross-border payments using Stellar's blockchain and An
 ## **Overview**  
 **Afripay Finance** provides cross-border payment solutions for underserved regions, starting with Cameroon. Our APIs leverage Stellar's blockchain infrastructure and the Anchor-in-a-Box framework to facilitate secure and fast international payments. And to do this, Afripay Finance relies on two platforms, one of which is a wallet that allows users unfamiliar with the world of cryptocurrencies to carry out their transactions securely, and another for users already invested in cryptocurrencies. However, it is important to note that the heart of all transactions (deposit, withdrawal, sending and currency exchange) remains the Stellar network for both platforms.
 
-## **Front-end of Afripay Finance the Crypto-wallet
+## **Front-end of Afripay Finance the Crypto-wallet**
 
 ![Crypto-wallet](./assets/mockups/bpvcollection/groups/2.png)
+![Crypto-wallet](./assets/mockups/bpvcollection/groups/3.png)
 
 This project showcases the APIs developed to enable:
 - **Deposits** and **withdrawals** using SEP-24.
