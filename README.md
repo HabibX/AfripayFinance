@@ -38,12 +38,20 @@ The platform targets remittances, business payments, and financial inclusion thr
 
 ```mermaid
 graph TD;
-    User -->|Request| API;
+    User -->|Request| Web-Client;
+    Web-Client --> |Request| API
     API -->|On/Off Ramp| Anchor-Box;
     Anchor-Box -->|Transactions| Stellar-Network;
     API -->|Withdraw/Deposit| Mobile-Wallets;
 ```
-
+```mermaid
+graph TD;
+    User -->|Request| Android-Client;
+    Android-Client --> |Request| API
+    API -->|On/Off Ramp| Anchor-Box;
+    Anchor-Box -->|Transactions| Stellar-Network;
+    API -->|Withdraw/Deposit| Mobile-Wallets;
+```
 ---
 
 ## **SCF Build Submission Goals**  
