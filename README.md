@@ -4,6 +4,9 @@ Afripay Finance APIs for cross-border payments using Stellar's blockchain and An
 
 # Afripay Finance – Stellar Anchor-in-a-Box API Integration
 
+![Alt text](./assets/afcollection/1.png)
+
+
 ## **Overview**  
 **Afripay Finance** provides cross-border payment solutions for underserved regions, starting with Cameroon. Our APIs leverage Stellar's blockchain infrastructure and the Anchor-in-a-Box framework to facilitate secure and fast international payments.
 
