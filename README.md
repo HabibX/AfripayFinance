@@ -21,10 +21,10 @@ Afripay Finance APIs for cross-border payments using Stellar's blockchain and An
 ![Fiat-Like-Walle](./assets/mockups/afcollection/5.png)
 ![Fiat-Like-Walle](./assets/mockups/afcollection/7.png)
 ![Fiat-Like-Walle](./assets/mockups/afcollection/5.png)
-![Fiat-Like-Walle](./assets/mockups/afcollection/9.png)
-![Fiat-Like-Walle](./assets/mockups/afcollection/10.png)
-![Fiat-Like-Walle](./assets/mockups/afcollection/11.png)
-![Fiat-Like-Walle](./assets/mockups/afcollection/12.png)
+![Fiat-Like-Walle](./assets/mockups/afcollection/9.jpg)
+![Fiat-Like-Walle](./assets/mockups/afcollection/10.jpg)
+![Fiat-Like-Walle](./assets/mockups/afcollection/11.jpg)
+![Fiat-Like-Walle](./assets/mockups/afcollection/12.jpg)
 
 This project showcases the APIs developed to enable:
 - **Deposits** and **withdrawals** using SEP-24.
