@@ -63,6 +63,8 @@ graph TD;
     Anchor-Box -->|Transactions| Stellar-Network;
     API -->|Withdraw/Deposit| Mobile-Wallets;
 ```
+
+![system_architecture_from_BPVentures](./assets/system%20diagram%20bpv.png)
 ---
 
 ## **SCF Build Submission Goals**  
