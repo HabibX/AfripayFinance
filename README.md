@@ -68,6 +68,9 @@ graph TD;
 
 ## **Standard Flow (from BP Ventures LLC)**
 ![standard_flow_diagram](./assets/standard%20flow%20diagram.png)
+
+## **OTC Quote using sep38  (from BP Ventures LLC)**
+![OTC_Quote_using_sep38-1](./assets/OTC%20Quote%20using%20sep38.png)
 ---
 
 ## **SCF Build Submission Goals**  
