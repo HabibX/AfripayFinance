@@ -63,10 +63,10 @@ graph TD;
     Anchor-Box -->|Transactions| Stellar-Network;
     API -->|Withdraw/Deposit| Mobile-Wallets;
 ```
-## **System Architecture**
+## **System Architecture (from BP Ventures LLC)**
 ![system_architecture_from_BPVentures](./assets/system%20diagram%20bpv.png)
 
-## **Standard Flow**
+## **Standard Flow (from BP Ventures LLC)**
 ![standard_flow_diagram](./assets/standard%20flow%20diagram.png)
 ---
 
